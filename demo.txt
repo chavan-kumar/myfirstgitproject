@@ -1,1 +1,2 @@
-This is my first git practical 
+my name is chavan
+My decond line
